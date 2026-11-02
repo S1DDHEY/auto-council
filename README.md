@@ -1,4 +1,4 @@
-# DeepSeek Terminal Assistants
+# Auto Council
 
 Python command-line tools that automate a signed-in [DeepSeek](https://chat.deepseek.com/) browser session with Playwright. The scripts open separate DeepSeek tabs, submit prompts, and print the responses in the terminal.
 
